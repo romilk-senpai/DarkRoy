@@ -1,0 +1,46 @@
+{
+  "name": "darkroy",
+  "displayName": "DarkRoy",
+  "publisher": "Royce",
+  "description": "Dark Theme by Royce for VS Code",
+  "version": "0.0.1",
+  "icon": "./assets/darkroy.png",
+  "author": {
+    "name": "Roy"
+  },
+  "license": "MIT",
+  "homepage": "",
+  "keywords": [
+    "DarkRoy",
+    "Dark Roy",
+    "Dark",
+    "Night"
+  ],
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "darkroy",
+        "label": "DarkRoy",
+        "path": "darkroy.png"
+      }
+    ],
+    "themes": [
+      {
+        "label": "DarkRoy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-roy-color-theme.json"
+      },
+      {
+        "label": "DarkRoy Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-roy-night-color-theme.json"
+      }
+    ]
+  }
+}
