@@ -8,6 +8,10 @@
   "author": {
     "name": "Roy"
   },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/royshemtov13/DarkRoy"
+  },
   "license": "MIT",
   "homepage": "",
   "keywords": [
