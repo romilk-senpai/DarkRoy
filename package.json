@@ -1,9 +1,9 @@
 {
-  "name": "darkroy",
-  "displayName": "DarkRoy",
+  "name": "darkroy2",
+  "displayName": "DarkRoy 2",
   "publisher": "Royce",
   "description": "Dark Theme by Royce for VS Code",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "icon": "assets/darkroy.png",
   "author": {
     "name": "Roy"
@@ -36,14 +36,9 @@
     ],
     "themes": [
       {
-        "label": "DarkRoy",
+        "label": "DarkRoy 2",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-roy-color-theme.json"
-      },
-      {
-        "label": "DarkRoy Night",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark-roy-night-color-theme.json"
       }
     ]
   }

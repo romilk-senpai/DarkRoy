@@ -1,8 +1,8 @@
-colors:
-  white: "#eaeaea" # foreground, variables, properites.
-  purple: "#56a5ec" # keywords
-  peach: "#ffe5b4" # numbers
-  blue: "#5f96c7" # functions, methods
-  green: "#acb657" # strings
-  yellow: "#fffeab" # operators, special functions
+colors: # don't pay attention to names
+  white: "#eaeae9" # foreground, variables, properites.
+  purple: "#cea1fd" # keywords, types
+  peach: "#19d2d7" # numbers
+  blue: "#eaeae9" # functions, methods
+  green: "#24d998" # strings
+  yellow: "#e0b316" # operators, special functions
   gray: "#808080" # comments
