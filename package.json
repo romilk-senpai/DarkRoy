@@ -4,7 +4,6 @@
   "publisher": "Royce",
   "description": "Dark Theme by Royce for VS Code",
   "version": "0.0.1",
-  "icon": "assets/darkroy.png",
   "author": {
     "name": "Roy"
   },
